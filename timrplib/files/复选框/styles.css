@@ -1,0 +1,36 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:static;
+  left:auto;
+  width:110px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u13 {
+  border-width:0px;
+  position:absolute;
+  left:10px;
+  top:10px;
+  width:100px;
+  height:16px;
+}
+#u13_text {
+  border-width:0px;
+  position:absolute;
+  left:16px;
+  top:0px;
+  width:82px;
+  word-wrap:break-word;
+}
+#u13_input {
+  border-width:0px;
+  position:absolute;
+  left:-3px;
+  top:-2px;
+}

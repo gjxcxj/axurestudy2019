@@ -1,0 +1,39 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:static;
+  left:auto;
+  width:779px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u146 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:775px;
+  height:536px;
+}
+#u146_input {
+  border-width:2px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:775px;
+  height:536px;
+  overflow:auto;
+}
+#u146_ann {
+  border-width:0px;
+  position:absolute;
+  left:772px;
+  top:-4px;
+  width:1px;
+  height:1px;
+}
